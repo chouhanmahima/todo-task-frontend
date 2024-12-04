@@ -12,7 +12,7 @@ This is the frontend for the Task Scheduler application, built with HTML, CSS, a
 
 ### Prerequisites
 
-- A backend server running at `https://task-frontend-theta.vercel.app/` (or your configured backend URL).
+- A backend server running at `https://todo-task-frontend-bice.vercel.app/` (or your configured backend URL).
 - A modern web browser.
 
 ### Installation
@@ -27,7 +27,7 @@ No installation is required for the frontend as it's a static HTML, CSS, and Jav
    
 
 2. **Serve the Frontend**:
-   - If you are serving through the backend, simply navigate to `https://task-frontend-theta.vercel.app/`.
+   - If you are serving through the backend, simply navigate to `https://todo-task-frontend-bice.vercel.app/`.
    
 3. **Interact with the UI**:
    - Use the provided forms and buttons to interact with the task scheduler.
